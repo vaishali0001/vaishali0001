@@ -1,0 +1,13 @@
+{
+  "name": "vaishali0001",
+  "version": "1.0.0",
+  "description": "This is my react code file by vaishali.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "vaishali",
+  "license": "ISC"
+  
+}
